@@ -1,2 +1,4 @@
 datasets/vg/
 __pycache__/
+bua-caffe-frcn-r101_with_attributes_fix36.pth
+checkpoints/bua-caffe-frcn-r101_with_attributes.pth
